@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=80bf4d&height=300&section=header&text=🙋‍♂️%20안녕하세요%20안드로이드%20개발자%20홍유준입니다&fontSize=30" />
 
-<h2 align="center">Tech Stack </h2>
+<h2 align="center">💡 Tech Stack 💡</h2>
 
 <h3 align="center">✏ Language </h3>
 <h4 align="center">자신 있어요</h4>
@@ -67,14 +67,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghddbwns9808&&hide_title=false&show_icons=true&include_all_commits=true&theme=dark" />
   </a>
 </p>
-&nbsp
+
 
 <h3 align="center">💡 Baekjoon 💡</h3>
 <div align="center">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddbwns9808"/>
 
 </div>
-&nbsp
+
 <h3 align="center">💡 My Recent Blog Article 💡</h3>
 <div align="center" style="text-align:center">
   
