@@ -55,18 +55,20 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/$ghddbwns9808">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghddbwns9808&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=gradient" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghddbwns9808&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=dark" />
   </a>
 </p>
+&nbsp
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/ghddbwns9808">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghddbwns9808&&hide_title=false&show_icons=true&include_all_commits=true&theme=gradient" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghddbwns9808&&hide_title=false&show_icons=true&include_all_commits=true&theme=dark" />
   </a>
 </p>
-
+&nbsp
+<h3 align="center">💡 My Recent Blog Article 💡</h3>
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ghddbwns9808&color=white)](https://velog.io/@ghddbwns9808/posts)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ghddbwns9808)](https://velog.io/@ghddbwns9808/posts)
   
 </div>
