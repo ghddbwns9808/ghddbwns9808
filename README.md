@@ -51,23 +51,29 @@
   <img src="https://img.shields.io/badge/gerrit-EEEEEE.svg?style=for-the-badge&logo=gerrit&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
-<h3 align="center">💡 Baekjoon 💡</h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddbwns9808)](https://solved.ac/ghddbwns9808/)
+
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/$ghddbwns9808">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghddbwns9808&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghddbwns9808&layout=compact&show_icons=true&show_owner=true&hide=dockerfile&hide_title=true&theme=dark" />
   </a>
 </p>
-&nbsp
+
+
 <h3 align="center">💡 My Git Stats 💡</h3>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.ghddbwns9808.com)                    
 <p align="center">
   <a href="https://github.com/ghddbwns9808">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghddbwns9808&&hide_title=false&show_icons=true&include_all_commits=true&theme=dark" />
   </a>
 </p>
+&nbsp
+
+<h3 align="center">💡 Baekjoon 💡</h3>
+<div align="center">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddbwns9808"/>
+
+</div>
 &nbsp
 <h3 align="center">💡 My Recent Blog Article 💡</h3>
 <div align="center" style="text-align:center">
