@@ -27,6 +27,8 @@
 </div>
 <h4 align="center">해본 적 있어요</h4>
 <div align="center">
+  <img src="https://img.shields.io/badge/Compose-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/MVI-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/Flow-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/BLE-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/OnDevice-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
