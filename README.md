@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/JAVA-f89820.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp
 </div>
-<h4 align="center">해본 적 있어요</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
-</div>
 
 <h3 align="center">📱 Android </h3>
 <h4 align="center">자신 있어요</h4>
@@ -30,6 +26,8 @@
   <img src="https://img.shields.io/badge/Compose-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/MVI-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/Flow-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
+   <img src="https://img.shields.io/badge/NFC-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/STOMP-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/BLE-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
   <img src="https://img.shields.io/badge/OnDevice-98c15c.svg?style=for-the-badge&logo=1&logoColor=3776AB" />&nbsp
 </div>
